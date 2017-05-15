@@ -1,0 +1,7 @@
+site_name: MailFit 8.2
+site_url: http://acellemail.com
+extra_css:
+- css/extra.css
+pages:
+- Getting Started: index.md
+- API Reference: api.md
